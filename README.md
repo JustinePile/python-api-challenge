@@ -5,3 +5,17 @@
 ![Screenshot](WeatherPy/screenshot.png)
 ---
 # VacationPy
+
+---
+### Directory structure:
+WeatherPy/  
+├─ WeatherPy.ipynb  
+├─ screenshot.png  
+├─ output_data/  
+│  ├─ Fig1.png  
+│  ├─ Fig2.png  
+│  ├─ Fig3.png  
+│  ├─ Fig4.png  
+│  ├─ cities.csv  
+VacationPy/  
+├─ VacationPy.ipynb  
